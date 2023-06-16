@@ -1,4 +1,4 @@
-# predictive-toxicology
+# Toxicity Prediction
 
 This project uses the data from PubChem to predict if a new substance can cause teratogenicity during pregnancy or not.
 
